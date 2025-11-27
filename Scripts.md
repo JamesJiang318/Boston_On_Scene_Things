@@ -96,3 +96,5 @@ I’ve combined the shot list, shooting tips, and color grading notes into an in
 | 8        | Medium (Empty)   | Classroom display: craft models with small pumpkin decor; warm light hits the models | Slow Pull-Back        | 5s       | None                       | Add orange-yellow to shadows (+15)                |
 | 9        | Group (Character) | Students gather around a craft model, smiles lit by warm light (autumn-decorated wall in background) | Static                | 6s       | Laughter                   | Boost orange saturation; reduce cool tones        |
 | 10       | Wide (Empty)     | Hallway end: sunlight covers the floor; leaves scatter by lockers (fade to dark) | Static (Fade Out)     | 4s       | Narration: *“Autumn light—where campus meets warmth”* | Lower exposure by 10%; finish with subtle vignette |
+
+# By AI
